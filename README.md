@@ -6,6 +6,7 @@ Requires:
   http://www.pythonware.com/products/pil/
   
   Python 2.7.x:
+  
   https://www.python.org/downloads/
   
 Notes:
