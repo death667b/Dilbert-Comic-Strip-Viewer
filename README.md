@@ -5,7 +5,7 @@ Requires:
   Last version of PIL:  
   http://www.pythonware.com/products/pil/
   
-  Python 2.7.x
+  Python 2.7.x:
   https://www.python.org/downloads/
   
 Notes:
